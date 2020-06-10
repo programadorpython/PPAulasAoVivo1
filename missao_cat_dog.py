@@ -27,23 +27,3 @@ print()
 print("Obrigado pela participação!")
 
 
-
-if
-    asdfasdf
-if
-    adsfsadfadsf
-if
-    adsfdsaf
-
-if
-    asdfadsf
-else
-    adsfsadf
-
-
-if alksdf == lkajsd l;dk
-    asdfasdf
-elif la;kj fl;ksad == lkasjfl
-    adsfasdf
-else
-    asdfsadf
