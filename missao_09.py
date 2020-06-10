@@ -33,7 +33,3 @@ for emissora in emissoras:
     print(f"Eu gosto da emissora {emissora}.")
 
 print("Eu gosto de todas essas emissoras")
-
-
-Rio de Janeiro
-
