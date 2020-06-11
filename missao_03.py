@@ -10,7 +10,7 @@ idade = 18
 
 print(f"O usuário {nome_completo.title()} reside no endereço {endereco_completo} e sua idade é {idade} anos.")
 print("O usuário " + nome_completo.title() + " reside no endereço " + endereco_completo + " e sua idade é " + str(idade) + " anos.")
-print("O usuário {} reside no endereço {} e sua idade é {} anos.".format(nome_completo, endereco_completo, idade))
+# print("O usuário {} reside no endereço {} e sua idade é {} anos.".format(nome_completo, endereco_completo, idade))
 
 
 
